@@ -3,7 +3,7 @@
 ##### This is the companion code for [Wind-Aware Trajectory Planning For Fixed-Wing Aircraft in Loss of Thrust Emergencies.](http://http://wcl.cs.rpi.edu/papers/DASC_18.pdf "Research Paper")
 
 ##### Versions:
-* v_h.1 - generates wind-aware trajectories.
+* v_H1.xx - generates wind-aware trajectories.
 
 * There are two things that can be done with this software:
 
