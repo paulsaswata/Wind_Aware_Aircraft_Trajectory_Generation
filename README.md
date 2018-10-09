@@ -5,6 +5,21 @@
 ##### Versions:
 * v_h.1 - generates wind-aware trajectories.
 
+* There are two things that can be done with this software:
+
+	- Modeling the effect of wind on trajectories
+		<p align="middle">
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/model2d.png" width="45%" />
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/model3d.png" width="45%" /> 
+		</p>		
+		
+	- Generate wind-aware trajectories
+		<p align="middle">
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/wind2d.png" width="45%" />
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/wind3d.png" width="45%" /> 
+		</p>		
+
+
 ##### DISCLAIMER: 
 Copyright &copy; 2017 Saswata Paul
 
