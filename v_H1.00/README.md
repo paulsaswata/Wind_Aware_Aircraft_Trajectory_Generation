@@ -17,6 +17,7 @@
 #### The instructions for using the software are given below:
 
 * Create a configuration file with the name `config.txt` in the following format: 
+
 		`initial_longitude,initial_latitude,initial_heading,final_longitude,final_latitude,final_heading,initial_altitude,baseline_glide_ratio,dirty_configuration_glide_ratio,best_gliding_speed,bank_angle,wind_heading,wind_speed`
 
 * For modeling the effect of wind, create a `config.txt` file in the above format, put `model_wind` and `view.py` (for viewing the trajectories in 2D and 3D) in the same folder along with the `config.txt` file and type:
