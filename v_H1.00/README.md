@@ -1,6 +1,6 @@
 # Wind_Aware_Aircraft_Trajectory_Generation 
 
-#### There are two things that can be done with this software:
+#### Functionalities:
 
 * Modeling the effect of wind on trajectories
 	<p align="middle">
