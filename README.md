@@ -24,7 +24,7 @@
 * This software was written for performing simulations for the paper and is NOT COMPLETE OR EXHAUSTIVE in any way. There are corner cases that have not been tested and use cases that have not been considered. However, it can be used to correctly reproduce the results in the paper. Patches are welcome.
 
 ##### DISCLAIMER: 
-Copyright &copy; 2017 Saswata Paul
+Copyright &copy; 2018 Saswata Paul
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
