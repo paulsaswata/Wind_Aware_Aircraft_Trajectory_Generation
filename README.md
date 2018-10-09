@@ -1,6 +1,6 @@
 # Wind_Aware_Aircraft_Trajectory_Generation 
 
-##### This is the companion code for [Wind-Aware Trajectory Planning For Fixed-Wing Aircraft in Loss of Thrust Emergencies.](http://http://wcl.cs.rpi.edu/papers/DASC_18.pdf "Research Paper")
+##### This is the companion code for [Wind-Aware Trajectory Planning For Fixed-Wing Aircraft in Loss of Thrust Emergencies.](http://wcl.cs.rpi.edu/papers/DASC_18.pdf "Research Paper")
 
 ##### Versions:
 * v_H1.xx - generates wind-aware trajectories.
@@ -20,7 +20,7 @@
 		</p>		
 
 ##### Note:
-* This is a companion software for the paper: [Wind-Aware Trajectory Planning For Fixed-Wing Aircraft in Loss of Thrust Emergencies.](http://http://wcl.cs.rpi.edu/papers/DASC_18.pdf "Research Paper")
+* This is a companion software for the paper: [Wind-Aware Trajectory Planning For Fixed-Wing Aircraft in Loss of Thrust Emergencies.](http://wcl.cs.rpi.edu/papers/DASC_18.pdf "Research Paper")
 * This software was written for performing simulations for the paper and is NOT COMPLETE OR EXHAUSTIVE in any way. There are corner cases that have not been tested and use cases that have not been considered. However, it can be used to correctly reproduce the results in the paper. Patches are welcome.
 
 ##### DISCLAIMER: 
