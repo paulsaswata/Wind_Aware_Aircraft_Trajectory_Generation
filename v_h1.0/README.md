@@ -7,9 +7,17 @@ The instructions for using the software are given below:
 
 * There are two things that can be done with this software:
 
-	- Model the effect of wind on trajectories
+	- Modeling the effect of wind on trajectories
+		<p align="middle">
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Trajectory_Generation/blob/master/v_h1.0/src/sample/model2d.png" width="45%" />
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Trajectory_Generation/blob/master/v_h1.0/src/sample/model3d.png" width="45%" /> 
+		</p>		
+		
 	- Generate wind-aware trajectories
-
+		<p align="middle">
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Trajectory_Generation/blob/master/v_h1.0/src/sample/wind2d.png" width="45%" />
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Trajectory_Generation/blob/master/v_h1.0/src/sample/wind3d.png" width="45%" /> 
+		</p>		
 
 * For modeling the effect of wind, create a `config.txt` file in the above format, put `model_wind` and `view.py` (for viewing the trajectories in 2D and 3D) in the same folder along with the `config.txt` file and type:
 
@@ -26,7 +34,6 @@ The instructions for using the software are given below:
 
 
 	`$python view.py` (To visualize the wind-aware trajectory)
-
 
 * The `src` folder contains the C source files.
 
