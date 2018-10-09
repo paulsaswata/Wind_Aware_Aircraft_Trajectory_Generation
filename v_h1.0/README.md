@@ -35,10 +35,6 @@ The instructions for using the software are given below:
 
 * The `src` folder contains the C source files.
 
-##### Scope:
-* This is a companion code for the paper: [Wind-Aware Trajectory Planning For Fixed-Wing Aircraft in Loss of Thrust Emergencies.](http://http://wcl.cs.rpi.edu/papers/DASC_18.pdf "Research Paper")
-* This software was written for performing simulations for the paper and is NOT COMPLETE OR EXHAUSTIVE in any way. There are corner cases that have not been tested and use cases that have not been considered. However, it can be used to correctly reproduce the results in the paper. Patches are welcome.
-
 ##### Known bugs:
 * Static memory allocation is prone to `segmentation fault`
 * Static array sizes cannot deal with large number of points
