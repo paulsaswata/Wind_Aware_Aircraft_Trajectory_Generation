@@ -9,8 +9,8 @@ The instructions for using the software are given below:
 
 	- Modeling the effect of wind on trajectories
 		<p align="middle">
-		  <img src="https://github.com/paulsaswata/Wind_Aware_Trajectory_Generation/blob/master/v_h1.0/src/sample/model2d.png" width="45%" />
-		  <img src="https://github.com/paulsaswata/Wind_Aware_Trajectory_Generation/blob/master/v_h1.0/src/sample/model3d.png" width="45%" /> 
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/model2d.png" width="45%" />
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/model3d.png" width="45%" /> 
 		</p>		
 		
 	- Generate wind-aware trajectories
