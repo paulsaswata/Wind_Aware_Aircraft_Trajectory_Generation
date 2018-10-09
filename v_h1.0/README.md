@@ -1,10 +1,5 @@
 # Wind_Aware_Aircraft_Trajectory_Generation 
 
-The instructions for using the software are given below:
-
-* Create a configuration file with the name `config.txt` in the following format: 
-		`initial_longitude,initial_latitude,initial_heading,final_longitude,final_latitude,final_heading,initial_altitude,baseline_glide_ratio,dirty_configuration_glide_ratio,best_gliding_speed,bank_angle,wind_heading,wind_speed`
-
 * There are two things that can be done with this software:
 
 	- Modeling the effect of wind on trajectories
@@ -19,8 +14,12 @@ The instructions for using the software are given below:
 		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/aware3d.png" width="45%" /> 
 		</p>		
 
-* For modeling the effect of wind, create a `config.txt` file in the above format, put `model_wind` and `view.py` (for viewing the trajectories in 2D and 3D) in the same folder along with the `config.txt` file and type:
+The instructions for using the software are given below:
 
+* Create a configuration file with the name `config.txt` in the following format: 
+		`initial_longitude,initial_latitude,initial_heading,final_longitude,final_latitude,final_heading,initial_altitude,baseline_glide_ratio,dirty_configuration_glide_ratio,best_gliding_speed,bank_angle,wind_heading,wind_speed`
+
+* For modeling the effect of wind, create a `config.txt` file in the above format, put `model_wind` and `view.py` (for viewing the trajectories in 2D and 3D) in the same folder along with the `config.txt` file and type:
 
 	`$./model_wind` 
 
@@ -28,7 +27,6 @@ The instructions for using the software are given below:
 	`$python view.py` (To visualize the effect of wind)
 
 * For generating a wind-aware trajectory, create a `config.txt` file in the above format, put `wind_aware` and `view.py` (for viewing the trajectories in 2D and 3D) in the same folder along with the `config.txt` file and type:
-
 
 	`$./wind_aware` 
 
@@ -39,7 +37,7 @@ The instructions for using the software are given below:
 
 ##### Please note:
 * This is a companion code for the paper: [Wind-Aware Trajectory Planning For Fixed-Wing Aircraft in Loss of Thrust Emergencies.](http://http://wcl.cs.rpi.edu/papers/DASC_18.pdf "Research Paper")
-* This software was written for performing the experiments for the paper and is NOT COMPLETE in any way. There are corner cases that have not been tested. However, it may be used to correctly reproduce the results in the paper. 
+* This software was written for performing the experiments for the paper and is NOT COMPLETE OR EXHAUSTIVE in any way. There are corner cases that have not been tested. However, it can be used to correctly reproduce the results in the paper. Patches are welcome.
 
 ##### Known bugs:
 * Static memory allocation is prone to `segmentation fault`
