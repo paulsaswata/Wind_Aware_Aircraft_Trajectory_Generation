@@ -1,6 +1,6 @@
 # Wind_Aware_Aircraft_Trajectory_Generation 
 
-* There are two things that can be done with this software:
+#### There are two things that can be done with this software:
 
 	- Modeling the effect of wind on trajectories
 		<p align="middle">
@@ -14,7 +14,7 @@
 		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_H1.00/src/sample/aware3d.png" width="45%" /> 
 		</p>		
 
-The instructions for using the software are given below:
+#### The instructions for using the software are given below:
 
 * Create a configuration file with the name `config.txt` in the following format: 
 		`initial_longitude,initial_latitude,initial_heading,final_longitude,final_latitude,final_heading,initial_altitude,baseline_glide_ratio,dirty_configuration_glide_ratio,best_gliding_speed,bank_angle,wind_heading,wind_speed`
