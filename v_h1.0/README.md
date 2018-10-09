@@ -15,8 +15,8 @@ The instructions for using the software are given below:
 		
 	- Generate wind-aware trajectories
 		<p align="middle">
-		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/wind2d.png" width="45%" />
-		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/wind3d.png" width="45%" /> 
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/aware2d.png" width="45%" />
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/aware3d.png" width="45%" /> 
 		</p>		
 
 * For modeling the effect of wind, create a `config.txt` file in the above format, put `model_wind` and `view.py` (for viewing the trajectories in 2D and 3D) in the same folder along with the `config.txt` file and type:

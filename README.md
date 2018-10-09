@@ -15,8 +15,8 @@
 		
 	- Generate wind-aware trajectories
 		<p align="middle">
-		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/wind2d.png" width="45%" />
-		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/wind3d.png" width="45%" /> 
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/aware2d.png" width="45%" />
+		  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_h1.0/src/sample/aware3d.png" width="45%" /> 
 		</p>		
 
 
