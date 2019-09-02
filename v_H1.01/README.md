@@ -19,6 +19,12 @@
 	  <img src="https://github.com/paulsaswata/Wind_Aware_Aircraft_Trajectory_Generation/blob/master/v_H1.00/src/sample/aware3d.png" width="45%" /> 
 	</p>		
 
+#### Before you start:
+
+* For the instructions given below, Python3 is required with Matplotlib and Numpy installed
+
+* The commands have been tested only for linux command line interface 
+
 #### The instructions for using the software are given below:
 
 * Create a configuration file with the name `config.txt` in the following format: 
